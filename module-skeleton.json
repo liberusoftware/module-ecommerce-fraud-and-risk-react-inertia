@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-fraud-and-risk-react-inertia",
+  "capabilityKey": "planned:ecommerce:fraud-and-risk",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-fraud-and-risk-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/fraud-and-risk.md",
+  "presentationPlan": "projects/ecommerce/react/fraud-and-risk.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
